@@ -1,4 +1,3 @@
-// Developed by Arun and Vivek
 #include<iostream>
 #include<iomanip>
 #include<fstream>
@@ -1171,7 +1170,6 @@ void intro()
       cout<<"-------------------------------------------------------------------------"<<endl;
       cout<<"PROJECT : "<<endl;
       cout<<"MADE BY : 1 - Arun Pratap Singh        , Reg.No.- 32601568 "<<endl;
-      cout<<"          2 - N.P. Vivek               , Reg.No.- 11718681"<<endl;
       cout<<endl;
       cout<<"----------------- SOE, Jawaharlal Nehru University ----------------------"<<endl;
       cout<<"========================================================================="<<endl;
